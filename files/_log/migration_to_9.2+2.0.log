@@ -1,0 +1,11 @@
+2018-05-15 16:38:47 [2@BORBOLETA]
+0 segundo for "Installation of plugin FusionInventory" @ 2018-05-15 16:38:48 [2@BORBOLETA]
+0 segundo for "Clean data from old installation of the plugin" @ 2018-05-15 16:38:48 [2@BORBOLETA]
+0 segundo for "Clean rules from old installation of the plugin" @ 2018-05-15 16:38:53 [2@BORBOLETA]
+5 segundos for "Creation tables in database" @ 2018-05-15 16:38:53 [2@BORBOLETA]
+0 segundo for "Creation of folders" @ 2018-05-15 16:38:53 [2@BORBOLETA]
+0 segundo for "Initialize profiles" @ 2018-05-15 16:38:53 [2@BORBOLETA]
+0 segundo for "Initialize configuration" @ 2018-05-15 16:38:53 [2@BORBOLETA]
+0 segundo for "Initialize agent TASKS" @ 2018-05-15 16:38:53 [2@BORBOLETA]
+0 segundo for "Initialize cron task" @ 2018-05-15 16:38:54 [2@BORBOLETA]
+1 segundo for "Create rules" @ 
